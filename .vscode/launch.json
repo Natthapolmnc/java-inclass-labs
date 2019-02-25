@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - testClass",
+            "request": "launch",
+            "mainClass": "testClass",
+            "projectName": "JavaLearner_ab196444"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Intersectionprinter",
+            "request": "launch",
+            "mainClass": "Intersectionprinter",
+            "projectName": "JavaLearner_ab196444"
+        }
+    ]
+}
